@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\John Wanamaker\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\John Wanamaker\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Kodachrome.7656849.00" t="ExcludeRecursive" />
+    <e p="C:\Users\John Wanamaker\Desktop\Slow Jam\Session 5\Kodachrome" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="fgkjuhskudfg.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="CameraMov.cs" t="Include" />
+          <e p="CanvasController.cs" t="Include" />
+          <e p="Click.cs" t="Include" />
+          <e p="FocusPoints.cs" t="Include" />
+          <e p="GalleryController.cs" t="Include" />
+          <e p="Global.cs" t="Include" />
+          <e p="MenuController.cs" t="Include" />
+          <e p="PhotoData.cs" t="Include" />
+          <e p="Playback.cs" t="Include" />
+          <e p="Snap_Photo.cs" t="Include" />
+          <e p="StartScreenController.cs" t="Include" />
+        </e>
+        <e p="test.cs" t="Include" />
+      </e>
+      <e p="Kodachrome.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
