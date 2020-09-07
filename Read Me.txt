@@ -1,0 +1,13 @@
+This Unity project is a simple example of the possibilies of camera mechanics in Unity
+
+
+The script 'Click' is where all the screenshot logic is held
+
+The Post Processing Effects and Physical Camera on the Camera gameobject
+are put there to show how you can manipulate simple post processing effects, 
+as well as camera components, to simulate how a camera operates.
+
+I know this is super simple stuff but I figured it could help people make more
+camera centric games. Enjoy! 
+
+<[X . X]>
